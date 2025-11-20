@@ -355,15 +355,4 @@ You can test the API using:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Author
-
-Created as a CRUD server demonstration project.
-
-## Support
-
-For issues, questions, or contributions, please open an issue on the repository.
 
